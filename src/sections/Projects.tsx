@@ -72,7 +72,7 @@ const portfolioProjects = [
       { title: "Skilled in digital illustration" },
       { title: "Experienced with Adobe PhotoShop" },
     ],
-    link: "https://youtu.be/Z7I5uSRHMHg",
+    link: "#",
     image: myPaperPortfolio,
   },
 ];
