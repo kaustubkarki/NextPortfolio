@@ -15,16 +15,13 @@ const portfolioProjects = [
     title: "Bundle-the best storage app",
     results: [
       {
-        title:
-          "Cloud Storage Management",
+        title: "Cloud Storage Management",
       },
       {
-        title:
-          "User Authentication",
+        title: "User Authentication",
       },
       {
-        title:
-          "File Sharing Features",
+        title: "File Sharing Features",
       },
     ],
     link: "https://bundle-it-kaustubkarkis-projects.vercel.app/sign-in",
@@ -36,16 +33,13 @@ const portfolioProjects = [
     title: "A perfect parking management tool",
     results: [
       {
-        title:
-          "Space Allocation",
+        title: "Space Allocation",
       },
       {
-        title:
-          "User Interfaces",
+        title: "User Interfaces",
       },
       {
-        title:
-          "Revenue Tracking",
+        title: "Revenue Tracking",
       },
     ],
     link: "https://github.com/kaustubkarki/gati-sunya",
@@ -57,19 +51,16 @@ const portfolioProjects = [
     title: "AI for football tracking",
     results: [
       {
-        title:
-          "Pose Estimation",
+        title: "Pose Estimation",
       },
       {
-        title:
-          "Performance Metrics",
+        title: "Performance Metrics",
       },
       {
-        title:
-          "Tactical Analysis",
+        title: "Tactical Analysis",
       },
     ],
-    link: "#",
+    link: "https://github.com/kaustubkarki/gamePlan",
     image: football,
   },
   {
@@ -131,7 +122,7 @@ export const ProjectsSection = () => {
                   </ul>
                   <a href={project.link}>
                     <button className="bg-white text-gray-950  h-12 w-full md:w-auto px-6 rounded-xl font-semibold inline-flex items-center justify-center gap-2 mt-8">
-                      <span>Visit live site</span>
+                      <span>Visit Project</span>
                       <ArrowUpRightIcon className="size-4" />
                     </button>
                   </a>
